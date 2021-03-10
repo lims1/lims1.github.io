@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Seung-Hwan Lim's page
 
 You can use the [editor on GitHub](https://github.com/lims1/lims1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
